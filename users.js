@@ -1732,7 +1732,7 @@ Connection = (function () {
 	return Connection;
 })();
 
-Users.User = User;
+Users.User = dexpro
 Users.Connection = Connection;
 
 /*********************************************************
