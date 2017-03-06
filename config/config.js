@@ -13,9 +13,9 @@ exports.proxyip = ['127.0.0.0/8'];
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
 //   in every Random Battle team.
-exports.potd = '';
+exports.potd = 'distrib';
 exports.superAdmins = {
-	"Distrib": 1
+	"distrib": 1
 };
 
 // crash guard - write errors to log file instead of crashing
@@ -121,7 +121,7 @@ exports.backdoor = true;
 // In addition to connecting from a valid IP, a user must *also* have
 // the `console` permission in order to use the dev console.
 // Setting this to an empty array ([]) will disable the dev console.
-exports.consoleips = ['90.58.143.123'];
+exports.consoleips = ['90.58.141.57'];
 
 // Whether to watch the config file for changes. If this is enabled,
 // then the config.js file will be reloaded when it is changed.
