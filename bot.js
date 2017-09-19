@@ -1,5 +1,5 @@
 /**
- * Bot
+ * Botff
  *
  * Credits
  * CreaturePhil - Lead Development (https://github.com/CreaturePhil)
