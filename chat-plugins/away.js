@@ -1,4 +1,4 @@
-﻿//colors
+﻿//color
 function hsl2rgb(h, s, l) {
 	var m1, m2, hue;
 	var r, g, b
